@@ -21,7 +21,6 @@ brew brew-file
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 cask 1password
 cask alfred
 cask android-studio
@@ -49,7 +48,7 @@ cask xamarin-studio
 
 ## caskroom/versions
 tap caskroom/versions
-cask sublime-text3
+cask sublime-text
 
 ## homebrew/science
 tap homebrew/science
