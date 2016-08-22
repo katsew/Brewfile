@@ -14,6 +14,7 @@ brew rbenv
 brew ruby-build
 brew tig
 brew tmux
+brew tree
 
 
 tap rcmdnk/file
@@ -45,6 +46,7 @@ cask vagrant
 cask virtualbox
 cask visual-studio-code
 cask xamarin-studio
+cask mysqlworkbench
 
 ## caskroom/versions
 tap caskroom/versions
